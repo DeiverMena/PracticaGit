@@ -1,2 +1,1 @@
-print("login V")
-print("stash")
+print("login V2")
